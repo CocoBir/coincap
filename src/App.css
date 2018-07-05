@@ -1,0 +1,41 @@
+.App {
+
+}
+
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  margin-top: 10px;
+  font-size: 1.5em;
+  text-align: center;
+  font-family: "Times New Roman";
+  font-weight: bold;
+}
+
+.App-search {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.App-convert {
+  max-width: 300px;
+  margin: 15px auto;
+}
+
+.green-cell {
+  color: green;
+}
+
+.red-cell {
+  color: red;
+}
+
+.App-content {
+  margin-top: 10px;
+}
